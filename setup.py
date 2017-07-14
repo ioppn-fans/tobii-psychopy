@@ -9,7 +9,7 @@ if path.isfile('README.md'):
 version = '0.1.0'
 
 setup(
-    name='tobii-psychopy',
+    name='tobiipsychopy',
     version=version,
     description='A package to use tobii eye tracking with psychopy.',
     long_description=readme,
