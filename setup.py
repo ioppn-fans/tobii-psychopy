@@ -29,7 +29,7 @@ setup(
         'Programming Language :: Python :: 2.7',
     ],
     keywords=['tobii', 'eyetracking', 'gazetracking'],
-    packages=['tobii-psychopy'],
+    packages=['tobiipsychopy'],
     install_requires=['numpy', 'psychopy', 'datetime'],
     # package_data={
     #     '': ['templates/*.tpl']
